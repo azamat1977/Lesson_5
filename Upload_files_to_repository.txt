@@ -1,0 +1,6 @@
+1. Create new Repository from GIT website;
+2. Clone it from website to Laptop by using: git clone https://github.com/azamat1977/Lesson_4.git (here instead of Lesson_4 - should be new name of repository);
+3. In Laptop copy neccessery files to just created clone repository;
+4. From terminal add files: git add 1.py (any file);
+5. Commit it: git commit -m "test";
+6. To add files on GIT website repository use: git push;
